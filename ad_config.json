@@ -1,37 +1,9 @@
 {
-  "app_id": "ca-app-pub-3940256099942544~3347511713",
-  "ads": {
-    "banner": {
-      "name": "Test Banner",
-      "id": "ca-app-pub-3940256099942544/6300978111"
-    },
-    "interstitial": {
-      "name": "Test Interstitial",
-      "id": "ca-app-pub-3940256099942544/1033173712"
-    },
-    "interstitial_video": {
-      "name": "Test Interstitial Video",
-      "id": "ca-app-pub-3940256099942544/8691691433"
-    },
-    "rewarded": {
-      "name": "Test Rewarded Video",
-      "id": "ca-app-pub-3940256099942544/5224354917"
-    },
-    "rewarded_interstitial": {
-      "name": "Test Rewarded Interstitial",
-      "id": "ca-app-pub-3940256099942544/5354046379"
-    },
-    "native_advanced": {
-      "name": "Test Native Advanced",
-      "id": "ca-app-pub-3940256099942544/2247696110"
-    },
-    "native_advanced_video": {
-      "name": "Test Native Advanced Video",
-      "id": "ca-app-pub-3940256099942544/1044960115"
-    },
-    "app_open": {
-      "name": "Test App Open",
-      "id": "ca-app-pub-3940256099942544/9257395915"
-    }
-  }
+  "show_ads": true,
+  "banner_id": "ca-app-pub-3940256099942544/9214589741",
+  "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "native_id": "ca-app-pub-3940256099942544/2247696110",
+  "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+  "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+  "interstitial_interval_seconds": 60
 }
